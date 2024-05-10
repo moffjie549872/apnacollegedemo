@@ -1,3 +1,4 @@
 # apnacollegedemo
-this is my first github repositry
+This is my first github Repository
+<Br>
 Author - Mohammed sirajudheen
